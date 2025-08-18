@@ -6,7 +6,9 @@ Develop a comprehensive report for the following exercises:
 3.	Generative AI applications.
 4.	Generative AI impact of scaling in LLMs.
 
-# Algorithm: Step 1: Define Scope and Objectives
+# Algorithm: 
+```
+Step 1: Define Scope and Objectives
 1.1 Identify the goal of the report (e.g., educational, research, tech overview)
 1.2 Set the target audience level (e.g., students, professionals)
 1.3 Draft a list of core topics to cover
@@ -55,9 +57,11 @@ Step 7: Finalize and Export
 7.2 Export as PDF or desired format
 7.3 Prepare a brief presentation if required (optional)
 
-
+```
 
 # Output
+[Thenmozhi_N_212223060291.pdf](https://github.com/user-attachments/files/21839893/Thenmozhi_N_212223060291.pdf)
 
 
 # Result
+A detailed report on the fundamentals of Generative AI and Large Language Models (LLMs) was successfully prepared.
