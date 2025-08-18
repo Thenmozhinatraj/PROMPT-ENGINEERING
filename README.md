@@ -58,6 +58,7 @@ Step 7: Finalize and Export
 
 
 # Output
-
+[Thenmozhi_N_212223060291.pdf](https://github.com/user-attachments/files/21839854/Thenmozhi_N_212223060291.pdf)
 
 # Result
+```The experiment successfully produced a comprehensive and structured report on the fundamentals of Generative AI and Large Language Models (LLMs). The report covers core concepts, architectures (transformers, GPT, BERT, etc.), applications, scaling impacts, limitations, and future trends. The outcome demonstrates that LLMs are not only powerful tools for text generation and understanding but also pose challenges in terms of scalability, ethics, and sustainability.```
